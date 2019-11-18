@@ -1,5 +1,8 @@
-# purely-functional-data-structures
+# Purely Functional Data Structures
 
-![logo](docs/repo-logo.png)
+<p align="center">
+  <img src="docs/repo-logo.png" width="300" />
+</p>
 
-Purely Functional Data Structures with F#
+
+This repository contains several F# codes of figures of Purely Functional Data Structures. Only study purposes.
